@@ -1,14 +1,14 @@
 # Companies House
 An ES6 Node.js library for the [Companies House API](https://developer.company-information.service.gov.uk/)
 # Installation instructions
-Run `npm install --save companies-house-api-es6`
+Run `npm install --save companies-house-api-2023`
 # Usage
 First you will need to create an account on companies house and get an API Key
 
 Then you will need to include the library
 
 ~~~js
-const CHA = require('companies-house-api-es6');
+const CHA = require('companies-house-api-2023');
 const cha = new CHA('YOUR_API_KEY');
 ~~~
 Here is an example
