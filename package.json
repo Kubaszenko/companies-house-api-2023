@@ -1,0 +1,22 @@
+{
+  "name": "companies-house-api-2023",
+  "version": "1.0.0",
+  "description": "This service will do a companies house lookup for a registered UK company",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kubaszenko/companies-house-api-2023"
+  },
+  "author": "Kubaszenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kubaszenko/companies-house-api-2023/issues"
+  },
+  "homepage": "https://github.com/Kubaszenko/companies-house-api-2023#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
